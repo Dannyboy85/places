@@ -3,7 +3,7 @@
 Makes an array of places on a .Json
 
 ## ScreenShots
-![alt-text] [img]
+![alt-text][img]
 
 [img]: https://raw.githubusercontent.com/Dannyboy85/places/master/img/places.jpg "my favorite places screenshots"
 
