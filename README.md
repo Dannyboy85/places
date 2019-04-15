@@ -5,7 +5,7 @@ Makes an array of places on a .Json
 ## ScreenShots
 ![alt-text] [image places]
 
-[places]: https://github.com/Dannyboy85/places/raw/master/img/pic.png "my favorite places screenshots"
+[places]: https://raw.githubusercontent.com/Dannyboy85/places/master/img/places.jpg "my favorite places screenshots"
 
 ## getting started
 ```
