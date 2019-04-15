@@ -3,7 +3,9 @@
 Makes an array of places on a .Json
 
 ## ScreenShots
-![image of pets](‎⁨Macintosh HD⁩/ ⁨Users⁩/danielfornica⁩/workspace⁩/pattern_tools⁩/exercises⁩/Places⁩/pic.jpg
+![alt-text][image places]
+
+[places]: https://github.com/Dannyboy85/places/raw/master/img/pic.png "my favorite places screenshots"
 
 ## getting started
 ```
