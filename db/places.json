@@ -1,0 +1,64 @@
+        {
+    "places":[
+    
+        {
+            "cityName": "Paris",
+            "cityState": "Île-de-France",
+            "cityImage":"https://2o7fsh4anuayrnrhe3us6v71-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Paris.jpg",
+            "favoriteRestaurant":"L'Oiseau Blanc",
+            "favoriteBar":"Le Caveau de la Huchette",
+            "favoriteHotel":"Le Meurice",
+            "favoriteTouristAttraction":"Catacombs of Paris",
+            "type": "city",
+            "rating":"2star"
+            
+            
+        },
+        {
+            "cityName": "London",
+            "cityState": "London",
+            "cityImage":"https://inhabitat.com/wp-content/blogs.dir/1/files/2018/06/city-of-london-1-889x592.jpg",
+            "favoriteRestaurant":"Brasserie Zedel",
+            "favoriteBar":"Moonglow",
+            "favoriteHotel":"TheRitz",
+            "favoriteTouristAttraction":"TheEye",
+            "type": "city",
+            "rating":"1star"
+        
+        },
+        {
+            "cityName": "Berlin",
+            "cityState": "Brandenburg",
+            "cityImage":"https://www.irishtimes.com/polopoly_fs/1.2560676.1457115180!/image/image.jpg_gen/derivatives/box_620_330/image.jpg",
+            "favoriteRestaurant":"",
+            "favoriteBar":"bar24",
+            "favoriteHotel":"Catalonia Berlin Mitte",
+            "favoriteTouristAttraction":"The Brandenburg Gate",
+            "type": "city",
+            "rating":"3star"
+            
+            
+        },
+        {
+            "cityName": "Barcelona",
+            "cityState": "Catalonia",
+            "cityImage":"https://www.triptizer.com/wp-content/uploads/2018/09/Barcelona.jpg",
+            "favoriteRestaurant":"Viana Barcelona",
+            "favoriteBar":"Macarena Bar",
+            "favoriteHotel":"W Barcelona",
+            "favoriteTouristAttraction":"La sagrada Familia",
+            "type": "city",
+            "rating":"1star"
+            
+            
+        }
+         
+
+
+
+
+       ]
+}
+
+
+
