@@ -3,9 +3,9 @@
 Makes an array of places on a .Json
 
 ## ScreenShots
-![alt-text] [image places]
+![alt-text] [img]
 
-[places]: https://raw.githubusercontent.com/Dannyboy85/places/master/img/places.jpg "my favorite places screenshots"
+[img]: https://raw.githubusercontent.com/Dannyboy85/places/master/img/places.jpg "my favorite places screenshots"
 
 ## getting started
 ```
